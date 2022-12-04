@@ -8,13 +8,13 @@ PART 1
 4. Create new branch 'dev-feat-1'
 5. Install dns.resolver library
 6. Complete the code based on the instructions in file email_verification_module.py, lines 67-89
-7. Commit and pull request changes to the 'prod' branch
+7. Create pull request to the 'prod' branch
 
 PART 2
 1. Create new branch 'dev-feat-2' from 'dev-feat-1'
 2. Create API Endpoint with Django Rest Framework:
 3. Support of GET/POST request, passing 'email' parameter to 'main_verify' method of 'EmailVerifier' object (email_verification_module.py)
-4. Commit and pull request changes to the 'dev-feat-1' branch
+4. Create pull request to the 'dev-feat-1' branch
 
 Be ready to DEMO it from your PC
 
